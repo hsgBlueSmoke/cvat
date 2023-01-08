@@ -1,0 +1,8 @@
+postgresql:
+  secret:
+    password: strongpw
+    postgres_password: strongpw
+    replication_password: strongpw
+    
+nuclio:
+  enabled: true
