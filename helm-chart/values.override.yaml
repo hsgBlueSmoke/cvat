@@ -6,3 +6,7 @@ postgresql:
     
 nuclio:
   enabled: true
+
+cvat:
+  backend:
+    server:
